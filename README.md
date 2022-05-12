@@ -78,7 +78,7 @@ This is a countrywide traffic accident dataset, which covers 49 states of the Un
 - [Acknowledgements](#acknowledgements)
 
 ## Architecture
-![alt text](https://github.com/AnshDesai/Covid-19-Twitter-Data/blob/master/images/architecture.png?raw=true)
+![alt text](https://github.com/AnshDesai/US-Accidents-Severity-Analysis/blob/master/architecture-image.png?raw=true)
 
 ## About the project
 Streaming data integration is the foundation for leveraging streaming analytics. Specific use cases such as Fraud detection, contextual marketing triggers, Dynamic pricing all rely on leveraging a data feed or real-time data. In many data centers, different type of servers generate large amount of data(events, Event in this case is status of the server in the data center) in real-time. There is always a need to process these data in real-time and generate insights which will be used by the server/data center monitoring people and they have to track these server's status regularly and find the resolution in case of issues occurring, for better server stability. Since the data is huge and coming in real-time, we need to choose the right architecture with scalable storage and computation frameworks/technologies.
